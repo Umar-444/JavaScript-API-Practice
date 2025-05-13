@@ -1,0 +1,11 @@
+.section {
+    height: 100vh; /* Set the height of each section to full viewport height */
+  }
+  
+  .fixed {
+    position: fixed; /* Fix the position of the section */
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  
